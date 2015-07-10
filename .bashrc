@@ -95,7 +95,7 @@ alias ssd='sudo -s'
 alias du='du -skc'
 alias exx='exit'
 # apt/aptitude alias
-alias inn='sudo aptitude install -y $1'
+alias inn='sudo apt-get install -y'
 alias aptu='sudo apt-get update'
 alias apgr='sudo apt-get upgrade'
 alias aptrem='sudo apt-get autoremove'
