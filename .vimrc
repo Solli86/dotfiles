@@ -2,6 +2,7 @@
 :set clipboard=unnamedplus
 set tabstop=2
 set expandtab
+
 set shiftwidth=2
 :retab
 "":set hlsearch
