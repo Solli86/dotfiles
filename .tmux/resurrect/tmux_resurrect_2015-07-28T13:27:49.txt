@@ -1,0 +1,10 @@
+pane	1	0	:-	1	:*	0	:/home/solli/development/rails_project/moviebox	1	bash	:
+pane	1	1	:Rails misc	0	: 	0	:/home/solli/development/rails_project/moviebox	1	bash	:
+pane	1	1	:Rails misc	0	: 	1	:/home/solli/development/rails_project/moviebox	0	ruby	:/home/solli/.rbenv/versions/2.2.2/bin/ruby bin/rails s
+pane	1	2	:bash	0	: 	0	:/home/solli	1	bash	:
+pane	1	3	:Git & Other	0	:-	0	:/home/solli/development/rails_project/moviebox	1	bash	:
+window	1	0	1	:*	b7bf,158x42,0,0,2
+window	1	1	0	: 	c03d,158x42,0,0[158x32,0,0,3,158x9,0,33,5]
+window	1	2	0	: 	b7c1,158x42,0,0,4
+window	1	3	0	:-	b7c3,158x42,0,0,6
+state	1	1

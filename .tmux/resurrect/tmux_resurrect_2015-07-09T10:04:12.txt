@@ -1,0 +1,7 @@
+pane	1	0	:-	1	:*	0	:/home/solli/development/rails_project/sample_app	1	bash	:
+pane	1	1	:RAILS console	0	:-	0	:/home/solli	1	bash	:
+pane	3	0	:RSpec	1	:*	0	:/home/solli/development/rails_project/sample_app	1	bash	:
+window	1	0	1	:*	b83e,159x42,0,0,1
+window	1	1	0	:-	b7bf,158x42,0,0,2
+window	3	0	1	:*	b7c3,158x42,0,0,6
+state	1	3

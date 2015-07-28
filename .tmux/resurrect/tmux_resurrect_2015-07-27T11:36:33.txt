@@ -1,0 +1,7 @@
+pane	1	0	:-	0	: 	0	:/home/solli/development/rails_project/moviebox	1	bash	:
+pane	1	1	:Rails misc	0	:-	0	:/home/solli/development/rails_project/moviebox	1	bash	:
+pane	1	2	:bash	1	:*	0	:/home/solli	1	bash	:
+window	1	0	0	: 	b7bf,158x42,0,0,2
+window	1	1	0	:-	b7c0,158x42,0,0,3
+window	1	2	1	:*	b7c1,158x42,0,0,4
+state	1	1
